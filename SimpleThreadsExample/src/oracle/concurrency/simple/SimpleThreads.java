@@ -15,7 +15,7 @@ public class SimpleThreads {
 	// Display a message, preceded by the name of the current thread
 	static void threadMessage(String message){
 		String threadName = Thread.currentThread().getName();
-		out.format("%s: %s%n", threadName, message);
+		out.format("%s: %s%n", threadName, message);				// %n, line separator(platform independent)
 	}
 	
 	/**
@@ -51,6 +51,11 @@ public class SimpleThreads {
 		}
 	}
 	
+	/**
+	 * Main program
+	 * @param args
+	 * @throws InterruptedException
+	 */
 	public static void main(String args[]) 
 			throws InterruptedException {
 		
