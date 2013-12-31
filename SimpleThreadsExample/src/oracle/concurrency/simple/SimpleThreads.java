@@ -4,7 +4,7 @@ import static java.lang.System.err;
 import static java.lang.System.out;
 
 /**
- * @author WWC076
+ * @author Chris Wong
  * 
  * <p>
  *  <a href="http://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html">SimpleThreads</a>
@@ -19,7 +19,7 @@ public class SimpleThreads {
 	}
 	
 	/**
-	 * @author WWC076
+	 * @author Chris Wong
 	 * <p>
 	 *  MessageLoop
 	 * </p>
