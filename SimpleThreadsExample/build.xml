@@ -95,6 +95,8 @@
 		<echo>Sample cmd: ant run -Dpatience=3</echo>
 		<echo>Sample cmd: ant jar</echo>
 		<echo>Sample cmd: ant jar -Dpatience=3</echo>
+		<echo>Generating javadoc cmd: ant doc</echo>
+		<echo>                      : alias as -- javadoc -sourcepath src -d doc -author oracle.concurrency.simple</echo>
 		<echo>Sample cmd: ant help</echo>
 	</target>
 </project>

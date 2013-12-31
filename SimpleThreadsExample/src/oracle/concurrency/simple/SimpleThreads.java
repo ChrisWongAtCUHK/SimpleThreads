@@ -5,9 +5,9 @@ import static java.lang.System.out;
 
 /**
  * @author WWC076
+ * 
  * <p>
- *  SimpleThreads
- *  @link http://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html
+ *  <a href="http://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html">SimpleThreads</a>
  * </p>
  */
 public class SimpleThreads {
